@@ -1,0 +1,42 @@
+{
+  "name": "three-quaternion-from-normal",
+  "version": "1.0.0",
+  "description": "Builds a ThreeJS quaternion from a normal vector",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.11.0",
+    "three": "^0.107.0"
+  },
+  "peerDependencies": {
+    "three": "*"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "quaternion",
+    "from",
+    "direction",
+    "three",
+    "threejs",
+    "js",
+    "vector",
+    "unit",
+    "normal"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/three-quaternion-from-normal.git"
+  },
+  "homepage": "https://github.com/mattdesl/three-quaternion-from-normal",
+  "bugs": {
+    "url": "https://github.com/mattdesl/three-quaternion-from-normal/issues"
+  }
+}
